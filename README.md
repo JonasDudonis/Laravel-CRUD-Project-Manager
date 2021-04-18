@@ -17,9 +17,9 @@
 
 ## Prerequisites
 
-> Git (Git Bash) [https://git-scm.com/downloads]
+> Git [https://git-scm.com/downloads]
 <br>
-AMPPS [https://ampps.com/download]
+> AMPPS [https://ampps.com/download]
 <br>
 > Composer [https://getcomposer.org/download]
 
