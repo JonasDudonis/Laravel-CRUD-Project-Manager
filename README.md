@@ -6,7 +6,6 @@
 > To create a fully functional CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) application using Laravel web application framework.
 
 ---
-<br>
 
 ## Project features
 - List project and employees
@@ -14,7 +13,6 @@
 - Create / Update / Delete projects and employees
 - Reassign employees to other projects
 - Custom 404 page
-<br>
 
 ## Prerequisites
 |  Follow links below to download: |
