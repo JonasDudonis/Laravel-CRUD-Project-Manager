@@ -14,15 +14,15 @@
 - Create / Update / Delete projects and employees
 - Reassign employees to other projects
 - Custom 404 page
+<br>
 
 ## Prerequisites
-
-> Git [https://git-scm.com/downloads]
+|     |
+| ------------- |
+| Git [https://git-scm.com/downloads]      | 
+| AMPPS [https://ampps.com/download]      | 
+| Composer [https://getcomposer.org/download] | 
 <br>
-> AMPPS [https://ampps.com/download]
-<br>
-> Composer [https://getcomposer.org/download]
-
 ## Installation
 1. Clone the repository or dl .zip
 2. Use XAMPP, AMPPS or other open-source platform to launch a php interpreter
