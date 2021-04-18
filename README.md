@@ -17,12 +17,12 @@
 <br>
 
 ## Prerequisites
-|     |
+|  Follow links below to download: |
 | ------------- |
-| Git [https://git-scm.com/downloads]      | 
-| AMPPS [https://ampps.com/download]      | 
-| Composer [https://getcomposer.org/download] | 
-<br>
+| Git (https://git-scm.com/downloads)      | 
+| AMPPS (https://ampps.com/download)      | 
+| Composer (https://getcomposer.org/download) | 
+
 ## Installation
 1. Clone the repository or dl .zip
 2. Use XAMPP, AMPPS or other open-source platform to launch a php interpreter
@@ -31,7 +31,7 @@
 ```sh
 composer install
 ```
-or
+**OR**
 ```sh
 composer update
 ```
@@ -51,8 +51,9 @@ RewriteRule ^(.*)$ Laravel-CRUD-Project-Manager/public/$1 [L]
 ```
 
 6) a) Import and execute **'_/SQL_DUMPS/database.sql'** SQL script to create database schema into MySQL database (e.g [MySQL Workbench](https://dev.mysql.com/downloads/workbench)).
-<br>
-or
+
+**OR**
+
 6. b) Execute the following SQL query in database:
 
 ```sh
@@ -74,5 +75,5 @@ php artisan migrate
 ## Authors
 [Jonas Dudonis](https://github.com/JonasDudonis)
 <br>
-<a href="https://www.linkedin.com/in/jonasdudonis" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/linkedin.svg" width="20"></a> 
+<a href="https://www.linkedin.com/in/jonasdudonis" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/linkedin.svg" width="25"></a> 
 
