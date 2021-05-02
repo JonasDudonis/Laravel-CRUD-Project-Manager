@@ -3,10 +3,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200"></a></p>
 
 ###  *Sprint-4 Exercise*
-> To create a fully functional CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) application using Laravel web application framework.
+To create a fully functional CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) application using Laravel web application framework. 
 
+<br>
 ---
-
 ## Project features
 - List project and employees
 - View specific employees assigned to project
@@ -61,4 +61,3 @@ php artisan db:seed
 [Jonas Dudonis](https://github.com/JonasDudonis)
 <br>
 <a href="https://www.linkedin.com/in/jonasdudonis" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/linkedin.svg" width="25"></a> 
-
