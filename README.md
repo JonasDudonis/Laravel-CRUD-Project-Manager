@@ -31,7 +31,7 @@ To create a fully functional CRUD (**C**reate, **R**ead, **U**pdate, **D**elete)
 
 4) Import and execute **'_/SQL_DUMPS/database.sql'** SQL script to create a new schema on MySQL Server (e.g [MySQL Workbench](https://dev.mysql.com/downloads/workbench)).
 5. Rename **'.env.example'** file to **'.env'** inside of the project's root directory and configure the database information.
-> *Note: DB_DATABASE field should match the name of the schema.*
+> *Note: DB_DATABASE field value should match the name of the schema.*
 6. Install missing Laravel dependencies running bash cmd in your code editor terminal:
 ```sh
 composer install
@@ -56,6 +56,13 @@ php artisan serve
 ```sh
 php artisan db:seed
 ```
+## Application UI
+
+<hr>
+<img src="./public/images/1.png">
+<hr>
+<img src="./public/images/2.png">
+<hr>
 
 ## Authors
 [Jonas Dudonis](https://github.com/JonasDudonis)
