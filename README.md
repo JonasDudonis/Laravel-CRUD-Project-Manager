@@ -5,7 +5,6 @@
 ###  *Sprint-5 Exercise*
 To create a fully functional CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) application using Laravel web application framework. 
 
-<br>
 ---
 
 ## Project features
